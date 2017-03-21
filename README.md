@@ -1,6 +1,6 @@
 # Resources
 
-Useful link and resources:
+Restore useful links and materials.
 
 **Link:**
 
