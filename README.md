@@ -2,7 +2,7 @@
 
 Restore useful links and materials.
 
-**Link:**
+**Links:**
 
 - Cuda:
 
@@ -11,7 +11,7 @@ Restore useful links and materials.
 - Deep Learning and Neural network:
 
 
-**Course:**
+**Courses:**
 - Machine learning:   
 
     1) [CS 229 standford Machine Learning](http://cs229.stanford.edu/)
