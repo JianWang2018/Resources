@@ -17,5 +17,5 @@ Restore useful links and materials.
 
 **Books:**
  - Deep learning:
- 1) [Deep lealrning and neural networks](http://neuralnetworksanddeeplearning.com/): online tutorial of deep learning
- 2) [UFLDL Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial): Standford online tutorial of deep learning
+  1) [Deep lealrning and neural networks](http://neuralnetworksanddeeplearning.com/): online tutorial of deep learning
+  2) [UFLDL Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial): Standford online tutorial of deep learning
