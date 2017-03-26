@@ -8,4 +8,4 @@ Restore useful links and materials.
 
 **Course:**
 
-1) [cs 229 standford Machine Learning](http://cs229.stanford.edu/)
+1) [CS 229 standford Machine Learning](http://cs229.stanford.edu/)
