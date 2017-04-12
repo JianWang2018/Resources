@@ -1,6 +1,6 @@
 # Resources
 
-Restore useful links and materials.
+This repository is used to restore useful links and materials. Now it has three parts: links, courses and books. Typically I pay mare attention to the mahcine learning and parallel computing area.
 
 **Links:**
 
