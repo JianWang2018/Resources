@@ -24,3 +24,5 @@ This repository is used to restore useful links and materials. Now it has three 
    1) [Deep lealrning and neural networks](http://neuralnetworksanddeeplearning.com/): online tutorial of deep learning
    
    2) [UFLDL Tutorial](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial): Standford online tutorial of deep learning
+   
+   3) [Deep learning tutorial by Yoshua Bengio, Ian Goodfellow, Aaron Courville](http://deeplearning.net/reading-list/tutorials/): Big names in deep learning area, now the tutorial has been published.
