@@ -15,6 +15,7 @@ Restore useful links and materials.
 - Machine learning:   
 
     1) [CS 229 standford Machine Learning](http://cs229.stanford.edu/)
+    2) [Reinforce learning by David Silver:](http://http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html), David Silver is the main programmer on the Go team at DeepMind. This course is the reinforce learning course he taught in UCL 
 
 **Books:**
  - Deep learning:
