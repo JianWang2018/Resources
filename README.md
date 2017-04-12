@@ -10,7 +10,7 @@ Restore useful links and materials.
   2) [Nvidia official website](http://www.nvidia.com/page/home.html)
   
 - Deep Learning and Neural network:
-  1) [Deep learning website:](http://deeplearning.net/) 
+  1) [Deep learning website:](http://deeplearning.net/) This website is intended to host a variety of resources and pointers to information about Deep Learning. 
 
 
 **Courses:**
