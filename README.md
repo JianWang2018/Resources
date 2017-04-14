@@ -11,6 +11,8 @@ This repository is used to restore useful links and materials. Now it has three 
   
 - Deep Learning and Neural network:
   1) [Deep learning website:](http://deeplearning.net/) This website is intended to host a variety of resources and pointers to information about Deep Learning. 
+  2) [Seven steps to understand deep learning](http://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html)
+  3) [Another seven steps to become deep learning expert](https://www.linkedin.com/pulse/7-steps-becoming-deep-learning-expert-ankit-agarwal)
 
 
 **Courses:**
