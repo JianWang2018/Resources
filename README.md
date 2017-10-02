@@ -15,7 +15,7 @@ This repository is used to restore useful links and materials. Now it has three 
   3) [Another seven steps to become deep learning expert](https://www.linkedin.com/pulse/7-steps-becoming-deep-learning-expert-ankit-agarwal)
 
 - Resampling : 
-1) [Rsampling and other strategies:(https://www.youtube.com/watch?v=-Z1PaqYKC1w&t=299s) Youtube video that introduces the resampling method.
+  1) [Rsampling and other strategies:](https://www.youtube.com/watch?v=-Z1PaqYKC1w&t=299s) Youtube video that introduces the resampling method.
 
 
 **Courses:**
