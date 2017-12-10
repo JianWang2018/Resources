@@ -10,10 +10,10 @@ This repository is used to restore useful links and materials. Now it has three 
   2) [Nvidia official website](http://www.nvidia.com/page/home.html)
   
 - Deep Learning and Neural network:
-  1) [Deep learning website:](http://deeplearning.net/) This website is intended to host a variety of resources and pointers to information about Deep Learning. 
-  2) [Seven steps to understand deep learning](http://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html)
-  3) [Another seven steps to become deep learning expert](https://www.linkedin.com/pulse/7-steps-becoming-deep-learning-expert-ankit-agarwal)
-  4) [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
+  - [Deep learning website:](http://deeplearning.net/) This website is intended to host a variety of resources and pointers to information about Deep Learning. 
+  - [Seven steps to understand deep learning](http://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html)
+  - [Another seven steps to become deep learning expert](https://www.linkedin.com/pulse/7-steps-becoming-deep-learning-expert-ankit-agarwal)
+  - [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
 
 * Computer vision:
   * [An introduction to Computer Vision in Python](https://alexlouden.com/posts/2016-computer-vision-on-strawberries.html)
