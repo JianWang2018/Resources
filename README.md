@@ -15,7 +15,7 @@ This repository is used to restore useful links and materials. Now it has three 
   3) [Another seven steps to become deep learning expert](https://www.linkedin.com/pulse/7-steps-becoming-deep-learning-expert-ankit-agarwal)
   4) [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
 
- * Computer vision:
+* Computer vision:
   * [An introduction to Computer Vision in Python](https://alexlouden.com/posts/2016-computer-vision-on-strawberries.html)
   * [Image Processing with OpenCV and Python](http://funcvis.org/blog/?p=44)
   
