@@ -16,7 +16,8 @@ This repository is used to restore useful links and materials. Now it has three 
   4) [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
 
  - Computer vision:
-  1.[An introduction to Computer Vision in Python](https://alexlouden.com/posts/2016-computer-vision-on-strawberries.html)
+ 
+  1. [An introduction to Computer Vision in Python](https://alexlouden.com/posts/2016-computer-vision-on-strawberries.html)
   2. [Image Processing with OpenCV and Python](http://funcvis.org/blog/?p=44)
   
 - Machine learning techniques: Techniques that may apply to all machine learning algorthms
