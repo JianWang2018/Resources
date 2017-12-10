@@ -16,8 +16,8 @@ This repository is used to restore useful links and materials. Now it has three 
   4) [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
 
 - Machine learning techniques: Techniques that may apply to all machine learning algorthms
-1) [Psedo-Labelling-techniques](https://www.analyticsvidhya.com/blog/2017/09/pseudo-labelling-semi-supervised-learning-technique/)
-2) [Rsampling and other strategies:](https://www.youtube.com/watch?v=-Z1PaqYKC1w&t=299s) Youtube video that introduces the resampling method.
+  1) [Psedo-Labelling-techniques](https://www.analyticsvidhya.com/blog/2017/09/pseudo-labelling-semi-supervised-learning-technique/)
+  2) [Rsampling and other strategies:](https://www.youtube.com/watch?v=-Z1PaqYKC1w&t=299s) Youtube video that introduces the resampling method.
 
 **Courses:**
 - Machine learning:   
