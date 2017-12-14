@@ -22,6 +22,8 @@ This repository is used to restore useful links and materials. Now it has three 
 - Machine learning techniques: Techniques that may apply to all machine learning algorthms
   1) [Psedo-Labelling-techniques](https://www.analyticsvidhya.com/blog/2017/09/pseudo-labelling-semi-supervised-learning-technique/)
   2) [Rsampling and other strategies:](https://www.youtube.com/watch?v=-Z1PaqYKC1w&t=299s) Youtube video that introduces the resampling method.
+ - Leetcode
+  * [Leetcode Blog](http://www.cnblogs.com/grandyang/p/4606334.html)
 
 - Online articles and we chat moments:
   1) [Rank-10-percent-in-first-kaggle-competition](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
