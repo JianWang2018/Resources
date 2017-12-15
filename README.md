@@ -18,7 +18,10 @@ This repository is used to restore useful links and materials. Now it has three 
 * Computer vision:
   * [An introduction to Computer Vision in Python](https://alexlouden.com/posts/2016-computer-vision-on-strawberries.html)
   * [Image Processing with OpenCV and Python](http://funcvis.org/blog/?p=44)
-  
+ 
+* Natral language processing:
+  * [text_classification](https://github.com/brightmart/text_classification)
+
 - Machine learning techniques: Techniques that may apply to all machine learning algorthms
   1) [Psedo-Labelling-techniques](https://www.analyticsvidhya.com/blog/2017/09/pseudo-labelling-semi-supervised-learning-technique/)
   2) [Rsampling and other strategies:](https://www.youtube.com/watch?v=-Z1PaqYKC1w&t=299s) Youtube video that introduces the resampling method.
