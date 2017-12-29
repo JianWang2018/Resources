@@ -29,7 +29,10 @@ This repository is used to restore useful links and materials. Now it has three 
 
 - Leetcode
   * [Leetcode Blog](http://www.cnblogs.com/grandyang/p/4606334.html)
-
+- System design
+  * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+  * [System design premier](https://github.com/donnemartin/system-design-primer)
+  
 - Online articles and we chat moments:
   1) [Rank-10-percent-in-first-kaggle-competition](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
 
