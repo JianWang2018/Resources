@@ -22,6 +22,7 @@ This repository is used to restore useful links and materials. Now it has three 
 * Natral language processing:
   * [text_classification comparision](https://github.com/brightmart/text_classification)
   * [Google word2vector](https://code.google.com/archive/p/word2vec/)
+  * [Ruder Blog](http://ruder.io/optimizing-gradient-descent/)
 
 - Machine learning techniques: Techniques that may apply to all machine learning algorthms
   1) [Psedo-Labelling-techniques](https://www.analyticsvidhya.com/blog/2017/09/pseudo-labelling-semi-supervised-learning-technique/)
