@@ -28,8 +28,11 @@ This repository is used to store useful study links and materials. Now it has th
   1) [Psedo-Labelling-techniques](https://www.analyticsvidhya.com/blog/2017/09/pseudo-labelling-semi-supervised-learning-technique/)
   2) [Rsampling and other strategies:](https://www.youtube.com/watch?v=-Z1PaqYKC1w&t=299s) Youtube video that introduces the resampling method.
 
-- Leetcode
+- Coding challenges:
+  * [leetcode](www.leetcode.com)
+  * [Lint code](www.lintcode.com)
   * [Leetcode Blog](http://www.cnblogs.com/grandyang/p/4606334.html)
+  
 - System design
   * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
   * [System design premier](https://github.com/donnemartin/system-design-primer)
