@@ -29,8 +29,8 @@ This repository is used to store useful study links and materials. Now it has th
   2) [Rsampling and other strategies:](https://www.youtube.com/watch?v=-Z1PaqYKC1w&t=299s) Youtube video that introduces the resampling method.
 
 - Coding challenges:
-  * [Leet code](leetcode.com)
-  * [Lint code](www.lintcode.com)
+  * [Leet code](https://leetcode.com)
+  * [Lint code](https://www.lintcode.com)
   * [Leetcode Blog](http://www.cnblogs.com/grandyang/p/4606334.html)
   
 - System design
