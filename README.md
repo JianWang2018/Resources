@@ -14,6 +14,7 @@ This repository is used to store useful study links and materials. Now it has th
   - [Seven steps to understand deep learning](http://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html)
   - [Another seven steps to become deep learning expert](https://www.linkedin.com/pulse/7-steps-becoming-deep-learning-expert-ankit-agarwal)
   - [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
+  - [Deep learning.ai note](http://www.ai-start.com/dl2017/)
 
 * Computer vision:
   * [An introduction to Computer Vision in Python](https://alexlouden.com/posts/2016-computer-vision-on-strawberries.html)
