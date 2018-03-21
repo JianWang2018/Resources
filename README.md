@@ -39,6 +39,11 @@ This repository is used to store useful study links and materials. Now it has th
 - System design
   * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
   * [System design premier](https://github.com/donnemartin/system-design-primer)
+  * [CLOUD COMPUTING & HIGH SCALABILITY](http://www.wayne.ink/2018/03/20/Distributed-System/System-Design/)
+  * [System Design Study Group](http://systemdesigns.blogspot.com/2015/11/0.html)
+  * [System design interview](https://github.com/checkcheckzz/system-design-interview)
+  * [System design gitbook](https://soulmachine.gitbooks.io/system-design/content/cn/task-scheduler.html?q=)
+
   
 - Online articles and we chat moments:
   1) [Rank-10-percent-in-first-kaggle-competition](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
