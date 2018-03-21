@@ -16,7 +16,7 @@ This repository is used to store useful study links and materials. Now it has th
   - [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
   - [Deep learning.ai note](http://www.ai-start.com/dl2017/)
 
-* Computer vision:
+- Computer vision:
   * [An introduction to Computer Vision in Python](https://alexlouden.com/posts/2016-computer-vision-on-strawberries.html)
   * [Image Processing with OpenCV and Python](http://funcvis.org/blog/?p=44)
  
@@ -26,7 +26,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [Ruder(PhD student in Natural Language Processing and a research scientist at AYLIEN) Blog](http://ruder.io/optimizing-gradient-descent/)
 
 - Machine learning techniques: Techniques that may apply to all machine learning algorthms
- * [Psedo-Labelling-techniques](https://www.analyticsvidhya.com/blog/2017/09/pseudo-labelling-semi-supervised-learning-technique/)
+  * [Psedo-Labelling-techniques](https://www.analyticsvidhya.com/blog/2017/09/pseudo-labelling-semi-supervised-learning-technique/)
   * [Rsampling and other strategies:](https://www.youtube.com/watch?v=-Z1PaqYKC1w&t=299s) Youtube video that introduces the resampling method.
   * [Optimizaion methods blog](http://ruder.io/optimizing-gradient-descent/)
   
