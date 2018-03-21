@@ -29,7 +29,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [Psedo-Labelling-techniques](https://www.analyticsvidhya.com/blog/2017/09/pseudo-labelling-semi-supervised-learning-technique/)
   * [Rsampling and other strategies:](https://www.youtube.com/watch?v=-Z1PaqYKC1w&t=299s) Youtube video that introduces the resampling method.
   * [Optimizaion methods blog](http://ruder.io/optimizing-gradient-descent/)
-  
+  * [Airbnbm data science blog](https://medium.com/airbnb-engineering/data/home)
 
 - Coding challenges:
   * [Leet code](https://leetcode.com)
