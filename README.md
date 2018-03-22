@@ -57,7 +57,7 @@ This repository is used to store useful study links and materials. Now it has th
     * [Standford theories of deep learning](https://www.researchgate.net/project/Theories-of-Deep-Learning)
 
 - NLP:
-    * [CMU ural networks for NLP](http://phontron.com/class/nn4nlp2017/)
+    * [CMU neural networks for NLP](http://phontron.com/class/nn4nlp2017/)
     
 - others: 
   * [Free online cs courses](https://github.com/prakhar1989/awesome-courses)
