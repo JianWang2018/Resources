@@ -22,6 +22,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [Image Processing with OpenCV and Python](http://funcvis.org/blog/?p=44)
  
 * Natral language processing:
+  * [Top NLP conference and journal](http://blog.paramitamirza.com/2014/01/17/top-nlpcl-conferences-and-journals/)
   * [text_classification comparision](https://github.com/brightmart/text_classification)
   * [Google word2vector](https://code.google.com/archive/p/word2vec/)
   * [Ruder(PhD student in Natural Language Processing and a research scientist at AYLIEN) Blog](http://ruder.io/optimizing-gradient-descent/)
