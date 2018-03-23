@@ -16,6 +16,7 @@ This repository is used to store useful study links and materials. Now it has th
   - [How to Grid Search Hyperparameters for Deep Learning Models in Python With Keras](https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
   - [Deep learning.ai note](http://www.ai-start.com/dl2017/)
   - [Deep learning.ai summary](https://github.com/mbadry1/DeepLearning.ai-Summary)
+  - [Deep learning.ai github](https://github.com/Kulbear/deep-learning-coursera)
 
 - Computer vision:
   * [An introduction to Computer Vision in Python](https://alexlouden.com/posts/2016-computer-vision-on-strawberries.html)
