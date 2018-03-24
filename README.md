@@ -61,6 +61,7 @@ This repository is used to store useful study links and materials. Now it has th
 
 - NLP:
     * [CMU neural networks for NLP](http://phontron.com/class/nn4nlp2017/)
+    * [Standford cs 224n NLP](http://web.stanford.edu/class/cs224n/syllabus.html)
     
 - others: 
   * [Free online cs courses](https://github.com/prakhar1989/awesome-courses)
