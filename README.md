@@ -8,6 +8,7 @@ This repository is used to store useful study links and materials. Now it has th
 
   1) [How to install and reinstall cuda](http://www.cnblogs.com/mayi2010/p/5604586.html)
   2) [Nvidia official website](http://www.nvidia.com/page/home.html)
+  3) [Cuda programming guide](http://docs.nvidia.com/cuda/)
   
 - Deep Learning and Neural network:
   - [Deep learning website:](http://deeplearning.net/) This website is intended to host a variety of resources and pointers to information about Deep Learning. 
