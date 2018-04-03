@@ -50,10 +50,11 @@ This repository is used to store useful study links and materials. Now it has th
   * [System design gitbook](https://soulmachine.gitbooks.io/system-design/content/cn/task-scheduler.html?q=)
 
   
-- Online articles and we chat moments:
-  1) [Rank-10-percent-in-first-kaggle-competition](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
-
-**Courses:**
+- Online articles:
+  * [Rank-10-percent-in-first-kaggle-competition](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
+  * [GDB](https://www.youtube.com/watch?v=xQ0ONbt-qPs)
+  
+  **Courses:**
 - Machine learning:   
 
     * [CS 229 standford Machine Learning](http://cs229.stanford.edu/): Machine learning course in standfordand cs department
