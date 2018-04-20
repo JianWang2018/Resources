@@ -6,10 +6,12 @@ This repository is used to store useful study links and materials. Now it has th
 
 - Cuda:
 
-  1) [How to install and reinstall cuda](http://www.cnblogs.com/mayi2010/p/5604586.html)
-  2) [Nvidia official website](http://www.nvidia.com/page/home.html)
-  3) [Cuda programming guide](http://docs.nvidia.com/cuda/)
-  4) [Cuda existing courses](https://developer.nvidia.com/educators/existing-courses)
+  - [How to install and reinstall cuda](http://www.cnblogs.com/mayi2010/p/5604586.html)
+  - [Nvidia official website](http://www.nvidia.com/page/home.html)
+  - [Cuda programming guide](http://docs.nvidia.com/cuda/)
+  - [Cuda existing courses](https://developer.nvidia.com/educators/existing-courses)
+  - [Cuda matrix multipliccation](https://github.com/lzhengchun/matrix-cuda/blob/master/matrix_cuda.cu)
+  
 - Deep Learning and Neural network:
   - [Deep learning website:](http://deeplearning.net/) This website is intended to host a variety of resources and pointers to information about Deep Learning. 
   - [Seven steps to understand deep learning](http://www.kdnuggets.com/2016/01/seven-steps-deep-learning.html)
