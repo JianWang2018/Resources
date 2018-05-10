@@ -38,7 +38,8 @@ This repository is used to store useful study links and materials. Now it has th
   * [Rsampling and other strategies:](https://www.youtube.com/watch?v=-Z1PaqYKC1w&t=299s) Youtube video that introduces the resampling method.
   * [Optimizaion methods blog](http://ruder.io/optimizing-gradient-descent/)
   * [Airbnbm data science blog](https://medium.com/airbnb-engineering/data/home)
-
+  * [Machine learning interview questions and answers](https://www.springboard.com/blog/machine-learning-interview-questions/)
+  
 - Coding challenges:
   * [Leet code](https://leetcode.com)
   * [Lint code](https://www.lintcode.com)
