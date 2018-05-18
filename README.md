@@ -39,7 +39,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [Optimizaion methods blog](http://ruder.io/optimizing-gradient-descent/)
   * [Airbnbm data science blog](https://medium.com/airbnb-engineering/data/home)
   * [Machine learning interview questions and answers](https://www.springboard.com/blog/machine-learning-interview-questions/)
-  
+  * [A/B test materials](http://exp-platform.com/talks/)
 - Coding challenges:
   * [Leet code](https://leetcode.com)
   * [Lint code](https://www.lintcode.com)
