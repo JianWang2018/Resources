@@ -3,7 +3,9 @@
 This repository is used to store useful study links and materials. Now it has three parts: links, courses and books. Typically I pay more attention to the mahcine learning and parallel computing area.
 
 **Links:**
-
+- C and C++:
+  * [C programming wiki book](https://en.m.wikibooks.org/wiki/C_Programming) 
+  
 - Cuda:
 
   - [How to install and reinstall cuda](http://www.cnblogs.com/mayi2010/p/5604586.html)
