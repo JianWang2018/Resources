@@ -45,9 +45,9 @@ This repository is used to store useful study links and materials. Now it has th
 - Coding challenges:
   * [Leet code](https://leetcode.com)
   * [Lint code](https://www.lintcode.com)
-  * [Leetcode Blog](http://www.cnblogs.com/grandyang/p/4606334.html)
-  * [leetcode gitbook](https://soulmachine.gitbooks.io/algorithm-essentials/content/java/linear-list/array/remove-duplicates-from-sorted-array.html)  
-  * [Leetcode solution](https://algorithm.yuanbin.me/zh-hans/)
+  * [Leetcode Blog(grand young)](http://www.cnblogs.com/grandyang/p/4606334.html)
+  * [leetcode gitbook(soul machine)](https://soulmachine.gitbooks.io/algorithm-essentials/content/java/linear-list/array/remove-duplicates-from-sorted-array.html)  
+  * [Leetcode solution(yuan bin)](https://algorithm.yuanbin.me/zh-hans/)
   
 - System design
   * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
