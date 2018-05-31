@@ -70,7 +70,7 @@ This repository is used to store useful study links and materials. Now it has th
     * [Reinforce learning by David Silver:](http://http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html), David Silver is the main programmer on the Go team at DeepMind. This course is the reinforce learning course he taught in UCL 
     * [Standford theories of deep learning](https://www.researchgate.net/project/Theories-of-Deep-Learning)
     * [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html)
-    * [Convexity optimization CMU] (http://www.stat.cmu.edu/~ryantibs/convexopt/)
+    * [Convexity optimization CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
 
 - NLP:
     * [CMU neural networks for NLP](http://phontron.com/class/nn4nlp2017/)
