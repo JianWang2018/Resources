@@ -42,6 +42,8 @@ This repository is used to store useful study links and materials. Now it has th
   * [Airbnbm data science blog](https://medium.com/airbnb-engineering/data/home)
   * [Machine learning interview questions and answers](https://www.springboard.com/blog/machine-learning-interview-questions/)
   * [A/B test materials](http://exp-platform.com/talks/)
+  * [SVM blog](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247487755&idx=1&sn=22b1e130bdbf8657b61aba492fdc6b7d&chksm=ebb429dfdcc3a0c95b4dd6281639277b165cfdd28234e45cb3f2feb8d2158e50e951d681524c&mpshare=1&scene=1&srcid=0601VxP6v8Uc7Ub6Z2TsBSmT&pass_ticket=ugENCR8c8Z5iQVS5tlIeqFCenO5J%2BS7U%2Fgu36X6d%2F%2F1phPYs2pUCp3fenP3kl%2FXk#rd)
+  
 - Coding challenges:
   * [Leet code](https://leetcode.com)
   * [Lint code](https://www.lintcode.com)
