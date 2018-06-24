@@ -50,7 +50,9 @@ This repository is used to store useful study links and materials. Now it has th
   * [Leetcode Blog(grand young)](http://www.cnblogs.com/grandyang/p/4606334.html)
   * [leetcode gitbook(soul machine)](https://soulmachine.gitbooks.io/algorithm-essentials/content/java/linear-list/array/remove-duplicates-from-sorted-array.html)  
   * [Leetcode solution(yuan bin)](https://algorithm.yuanbin.me/zh-hans/)
-  
+  * [Joyoi] (http://www.joyoi.cn/)
+  * [POJ](http://poj.org/)
+  * [Code Force](https://codeforces.com/problemset/problem/999/D)
 - System design
   * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
   * [System design premier](https://github.com/donnemartin/system-design-primer)
