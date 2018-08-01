@@ -76,6 +76,7 @@ This repository is used to store useful study links and materials. Now it has th
     * [UC Berkeley CS188 Intro to AI](http://ai.berkeley.edu/home.html)
     * [Convexity optimization CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
     * [Li Hongyi courses](http://speech.ee.ntu.edu.tw/~tlkagk/)
+    * [Reinforcement learning free course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#syllabus)
 
 - NLP:
     * [CMU neural networks for NLP](http://phontron.com/class/nn4nlp2017/)
