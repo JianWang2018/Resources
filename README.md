@@ -45,6 +45,9 @@ This repository is used to store useful study links and materials. Now it has th
   * [SVM blog](https://mp.weixin.qq.com/s?__biz=MzI4MDYzNzg4Mw==&mid=2247487755&idx=1&sn=22b1e130bdbf8657b61aba492fdc6b7d&chksm=ebb429dfdcc3a0c95b4dd6281639277b165cfdd28234e45cb3f2feb8d2158e50e951d681524c&mpshare=1&scene=1&srcid=0601VxP6v8Uc7Ub6Z2TsBSmT&pass_ticket=ugENCR8c8Z5iQVS5tlIeqFCenO5J%2BS7U%2Fgu36X6d%2F%2F1phPYs2pUCp3fenP3kl%2FXk#rd)
   * [Data Science materials](http://www.1point3acres.com/bbs/thread-76429-1-1.html)
   * [Machine learning notes](http://www.holehouse.org/mlclass/)
+  * [Mahchine learning notes gitbook](https://yoyoyohamapi.gitbooks.io/mit-ml/content/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/codes/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F.html)
+  * [Machine learning notes Chinese](http://daniellaah.github.io/2016/Machine-Learning-Andrew-Ng-My-Notes.html)
+  
 - Coding challenges:
   * [Leet code](https://leetcode.com)
   * [Lint code](https://www.lintcode.com)
