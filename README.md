@@ -35,6 +35,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [text_classification comparision](https://github.com/brightmart/text_classification)
   * [Google word2vector](https://code.google.com/archive/p/word2vec/)
   * [Ruder(PhD student in Natural Language Processing and a research scientist at AYLIEN) Blog](http://ruder.io/optimizing-gradient-descent/)
+  * [Word2Vec 学习心得](https://mp.weixin.qq.com/s?__biz=MjM5ODU3OTIyOA==&mid=2650672597&idx=2&sn=3974d9779ad3dceb720c5a6943a76433&chksm=bec230a689b5b9b00fcfe1d5b52770e075aa6208d9d2607d837bbcba8f55c2bd71c43383f4d5&mpshare=1&scene=1&srcid=0815tsattmBijSzqri5ZJ7sI&pass_ticket=morppK5RkBtD350KyROwp%2F2E3FF5yTK5%2B65qqWz1v%2FwuMNoEmu%2BPLjwHKJQD8BIf#rd（）)
 
 - Machine learning techniques: Techniques that may apply to all machine learning algorthms
   * [Psedo-Labelling-techniques](https://www.analyticsvidhya.com/blog/2017/09/pseudo-labelling-semi-supervised-learning-technique/)
