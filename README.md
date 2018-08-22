@@ -74,6 +74,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [GDB](https://www.youtube.com/watch?v=xQ0ONbt-qPs)
   * [Github personal website](http://jmcglone.com/guides/github-pages/)
   * [Github reset, recovery file](http://www.cnblogs.com/jasondan/p/3502894.html)
+  
   **Courses:**
 - Machine learning:   
 
