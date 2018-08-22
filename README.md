@@ -73,7 +73,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [Rank-10-percent-in-first-kaggle-competition](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
   * [GDB](https://www.youtube.com/watch?v=xQ0ONbt-qPs)
   * [Github personal website](http://jmcglone.com/guides/github-pages/)
-  
+  * [Github reset, recovery file](http://www.cnblogs.com/jasondan/p/3502894.html)
   **Courses:**
 - Machine learning:   
 
