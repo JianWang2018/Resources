@@ -85,6 +85,7 @@ This repository is used to store useful study links and materials. Now it has th
     * [Convexity optimization CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
     * [Li Hongyi courses](http://speech.ee.ntu.edu.tw/~tlkagk/)
     * [Reinforcement learning free course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#syllabus)
+    * [Columbia university machine learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-2)
 
 - NLP:
     * [CMU neural networks for NLP](http://phontron.com/class/nn4nlp2017/)
