@@ -25,7 +25,7 @@ This repository is used to store useful study links and materials. Now it has th
   - [Deep learning.ai github](https://github.com/Kulbear/deep-learning-coursera)
   - [Deep learning.ai github solution](https://github.com/JudasDie/deeplearning.ai)
   - [Ai start](http://www.ai-start.com/)
-  
+  - [CNN 反向传播算法](https://www.cnblogs.com/pinard/p/6494810.html)
 - Computer vision:
   * [An introduction to Computer Vision in Python](https://alexlouden.com/posts/2016-computer-vision-on-strawberries.html)
   * [Image Processing with OpenCV and Python](http://funcvis.org/blog/?p=44)
