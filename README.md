@@ -51,7 +51,8 @@ This repository is used to store useful study links and materials. Now it has th
   * [Mahchine learning notes gitbook](https://yoyoyohamapi.gitbooks.io/mit-ml/content/)
   * [Machine learning notes Chinese](http://daniellaah.github.io/2016/Machine-Learning-Andrew-Ng-My-Notes.html)
   * [朴素贝叶斯识别垃圾邮件](https://blog.csdn.net/saltriver/article/details/72571876)
-  
+  * [Top 50 Machine Learning Interview Questions & Answers	](https://career.guru99.com/top-50-interview-questions-on-machine-learning/)
+  * [21 Machine Learning Interview Questions and Answers](https://elitedatascience.com/machine-learning-interview-questions-answers)
 - Coding challenges:
   * [Leet code](https://leetcode.com)
   * [Lint code](https://www.lintcode.com)
