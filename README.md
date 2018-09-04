@@ -53,6 +53,9 @@ This repository is used to store useful study links and materials. Now it has th
   * [朴素贝叶斯识别垃圾邮件](https://blog.csdn.net/saltriver/article/details/72571876)
   * [Top 50 Machine Learning Interview Questions & Answers	](https://career.guru99.com/top-50-interview-questions-on-machine-learning/)
   * [21 Machine Learning Interview Questions and Answers](https://elitedatascience.com/machine-learning-interview-questions-answers)
+  * [121 MLQA – Study Guide Edition Reading List](https://elitedatascience.com/mlqa-reading-list)
+  * [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
+
 - Coding challenges:
   * [Leet code](https://leetcode.com)
   * [Lint code](https://www.lintcode.com)
