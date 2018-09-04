@@ -50,6 +50,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [Machine learning notes](http://www.holehouse.org/mlclass/)
   * [Mahchine learning notes gitbook](https://yoyoyohamapi.gitbooks.io/mit-ml/content/)
   * [Machine learning notes Chinese](http://daniellaah.github.io/2016/Machine-Learning-Andrew-Ng-My-Notes.html)
+  * [朴素贝叶斯识别垃圾邮件](https://blog.csdn.net/saltriver/article/details/72571876)
   
 - Coding challenges:
   * [Leet code](https://leetcode.com)
