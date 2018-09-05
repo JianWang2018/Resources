@@ -5,12 +5,13 @@ This repository is used to store useful study links and materials. Now it has th
 **Links:**
 - C and C++:
   * [C programming wiki book](https://en.m.wikibooks.org/wiki/C_Programming) 
+  - [C++ interview questions and answers](http://a4academics.com/interview-questions/57-c-plus-plus/419-cpp-interview-questions-answers)
   
 - Cuda:
 
   - [How to install and reinstall cuda](http://www.cnblogs.com/mayi2010/p/5604586.html)
   - [Nvidia official website](http://www.nvidia.com/page/home.html)
-  - [Cuda programming guide](http://docs.nvidia.com/cuda/)
+  - [Cuda programming guide](http://docs.nvidia.com/cuda/)*
   - [Cuda existing courses](https://developer.nvidia.com/educators/existing-courses)
   - [Cuda matrix multipliccation](https://github.com/lzhengchun/matrix-cuda/blob/master/matrix_cuda.cu)
   - [快来操纵你的GPU| CUDA编程入门极简教程](https://mp.weixin.qq.com/s?__biz=MzUyMjE2MTE0Mw==&mid=2247486917&idx=2&sn=b314d0846a3fe1ad505622fa373ae761&chksm=f9d1535dcea6da4b34502f1863348ae16acd38cca9e035ab31e07064e26682c3b09a8ee21524&mpshare=1&scene=1&srcid=0827VKMPTWyqSKDWfRsvKrZb&pass_ticket=LDOgOnmnReHl%2F6c3d%2Fa%2FPa3Sv%2BoWLZJ1mJd52iI3v5fMatnkHDpB2ef1LDzbvOhm#rd)
