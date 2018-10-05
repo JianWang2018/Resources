@@ -59,7 +59,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [121 MLQA – Study Guide Edition Reading List](https://elitedatascience.com/mlqa-reading-list)
   * [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
   * [Automated machine learning models, run and adjust parameters of different models together](https://github.com/ClimbsRocks/auto_ml)
-  
+  * [Introduction to reinforcement learning implementation](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
 - Coding challenges:
   * [Leet code](https://leetcode.com)
   * [Lint code](https://www.lintcode.com)
