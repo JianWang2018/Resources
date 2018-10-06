@@ -60,6 +60,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
   * [Automated machine learning models, run and adjust parameters of different models together](https://github.com/ClimbsRocks/auto_ml)
   * [Introduction to reinforcement learning implementation](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
+  
 - Coding challenges:
   * [Leet code](https://leetcode.com)
   * [Lint code](https://www.lintcode.com)
@@ -96,7 +97,7 @@ This repository is used to store useful study links and materials. Now it has th
     * [Li Hongyi courses](http://speech.ee.ntu.edu.tw/~tlkagk/)
     * [Reinforcement learning free course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/#syllabus)
     * [Columbia university machine learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-2)
-
+    * [Machine learning ubc course](https://www.cs.ubc.ca/~nando/340-2012/lectures.php)
 - NLP:
     * [CMU neural networks for NLP](http://phontron.com/class/nn4nlp2017/)
     * [Standford cs 224n NLP](http://web.stanford.edu/class/cs224n/syllabus.html)
