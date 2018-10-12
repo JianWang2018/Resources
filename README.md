@@ -63,6 +63,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [Introduction to reinforcement learning implementation](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
   * [Xgboost提升算法 1 1 Xgboost算法概述](https://www.youtube.com/watch?v=bOX3cu02Iuc&list=PLGmd9-PCMLhb5SGkPHKpAWujeXONmfvaQ)
   * [机器学习资源 Machine learning Resources](https://github.com/jindongwang/MachineLearning)
+  * [Python可视化与basemap数据地图](https://zhuanlan.zhihu.com/p/37336863)
 - Coding challenges:
   * [Leet code](https://leetcode.com)
   * [Lint code](https://www.lintcode.com)
