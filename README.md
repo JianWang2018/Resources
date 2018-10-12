@@ -33,6 +33,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [Image Processing with OpenCV and Python](http://funcvis.org/blog/?p=44)
   * [CS231n github notes](https://github.com/mbadry1/CS231n-2017-Summary/blob/master/README.md)
   * [Imdb face with age dataset](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
+  * [Age gender estimation github repository](https://github.com/yu4u/age-gender-estimation)
 * Natral language processing:
   * [Top NLP conference and journal](http://blog.paramitamirza.com/2014/01/17/top-nlpcl-conferences-and-journals/)
   * [text_classification comparision](https://github.com/brightmart/text_classification)
