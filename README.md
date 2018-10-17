@@ -65,6 +65,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [机器学习资源 Machine learning Resources](https://github.com/jindongwang/MachineLearning)
   * [Python可视化与basemap数据地图](https://zhuanlan.zhihu.com/p/37336863)
   * [中文Machine Learning And deep learning Resources](https://github.com/ty4z2008/Qix)
+  * [K nearest neighbour python code](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
   
 - Coding challenges:
   * [Leet code](https://leetcode.com)
