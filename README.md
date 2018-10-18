@@ -66,7 +66,8 @@ This repository is used to store useful study links and materials. Now it has th
   * [Python可视化与basemap数据地图](https://zhuanlan.zhihu.com/p/37336863)
   * [中文Machine Learning And deep learning Resources](https://github.com/ty4z2008/Qix)
   * [K nearest neighbour python code](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
-  
+  * [AB test with python: udacity finalproject](https://www.kaggle.com/tammyrotem/ab-tests-with-python/notebook)
+  * [A/B & Multivariate testing tutorial](https://github.com/dwyl/learn-ab-and-multivariate-testing)
 - Coding challenges:
   * [Leet code](https://leetcode.com)
   * [Lint code](https://www.lintcode.com)
