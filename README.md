@@ -95,7 +95,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [Install brew in mac](https://stackoverflow.com/questions/20381128/how-to-install-homebrew-on-os-x)
   * [Youtube download](https://zh.savefrom.net/1-how-to-download-youtube-video.html)
   
-  **Courses:**
+**Courses:**
 - Machine learning:   
 
     * [CS 229 standford Machine Learning](http://cs229.stanford.edu/): Machine learning course in standfordand cs department
