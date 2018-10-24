@@ -93,7 +93,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [Github personal website](http://jmcglone.com/guides/github-pages/)
   * [Github reset, recovery file](http://www.cnblogs.com/jasondan/p/3502894.html)
   * [Install brew in mac](https://stackoverflow.com/questions/20381128/how-to-install-homebrew-on-os-x)
-  
+  * [Youtube download](https://zh.savefrom.net/1-how-to-download-youtube-video.html)
   **Courses:**
 - Machine learning:   
 
