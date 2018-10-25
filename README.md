@@ -35,6 +35,7 @@ This repository is used to store useful study links and materials. Now it has th
   * [Imdb face with age dataset](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
   * [Age gender estimation github repository](https://github.com/yu4u/age-gender-estimation)
   * [Age gender detection TF github repository](https://github.com/BoyuanJiang/Age-Gender-Estimate-TF)
+  * [Keras VGGface github](https://github.com/rcmalli/keras-vggface)
 * Natral language processing:
   * [Top NLP conference and journal](http://blog.paramitamirza.com/2014/01/17/top-nlpcl-conferences-and-journals/)
   * [text_classification comparision](https://github.com/brightmart/text_classification)
