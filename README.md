@@ -71,6 +71,8 @@ This repository is used to store useful study links and materials. Now it has th
   * [K nearest neighbour python code](https://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/)
   * [AB test with python: udacity final project](https://www.kaggle.com/tammyrotem/ab-tests-with-python/notebook)
   * [A/B & Multivariate testing tutorial](https://github.com/dwyl/learn-ab-and-multivariate-testing)
+  * [lstm for time series model](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+  
 - Coding challenges:
   * [Leet code](https://leetcode.com)
   * [Lint code](https://www.lintcode.com)
