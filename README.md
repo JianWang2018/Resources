@@ -26,6 +26,7 @@ This repository is used to store useful study links and materials. Now it has th
   - [Deep learning.ai summary](https://github.com/mbadry1/DeepLearning.ai-Summary)
   - [Deep learning.ai github](https://github.com/Kulbear/deep-learning-coursera)
   - [Deep learning.ai github solution](https://github.com/JudasDie/deeplearning.ai)
+  - [Deep learning.ai quiz and assignment solution](https://github.com/tamirst/Deeplearning.ai)
   - [Ai start](http://www.ai-start.com/)
   - [Deep learning ai books](https://github.com/fengdu78/deeplearning_ai_books)
   - [CNN 反向传播算法](https://www.cnblogs.com/pinard/p/6494810.html)
