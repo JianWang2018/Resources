@@ -32,7 +32,7 @@ This repository is used to store useful study links and materials. Now it has th
   - [Deep learning ai books](https://github.com/fengdu78/deeplearning_ai_books)
   - [CNN 反向传播算法](https://www.cnblogs.com/pinard/p/6494810.html)
   - [Deep learning 500 questions and answers](https://github.com/scutan90/DeepLearning-500-questions)
-
+  - [深度学习面试宝典](https://github.com/amusi/Deep-Learning-Interview-Book)
 - Computer vision:
   * [An introduction to Computer Vision in Python](https://alexlouden.com/posts/2016-computer-vision-on-strawberries.html)
   * [Image Processing with OpenCV and Python](http://funcvis.org/blog/?p=44)
